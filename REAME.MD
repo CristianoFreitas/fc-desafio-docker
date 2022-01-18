@@ -1,3 +1,6 @@
+Dockerhub:
+    https://hub.docker.com/r/thecris/desafiogo
+
 Build:
     docker build -t thecris/desafiogo .
 
